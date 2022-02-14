@@ -8,4 +8,6 @@
   width: 100px;
   height: 100px;
   background-color: blue;
+  /* 指定方法（box2の周囲すべてに枠線を設定する場合） */
+  border: 5px solid yellow;
 }
