@@ -39,6 +39,8 @@
   width: 100%; /* 横幅いっぱい */
   height: 1400px; /* 高さ1400px（多めに設定） */
   background-color: green; /* 背景色green */
+  display: flex; /* Flexboxの利用 */
+  justify-content: center; /* 子要素の横並び・中央寄せ */
 }
 
 .blog {
