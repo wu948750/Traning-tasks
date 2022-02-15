@@ -29,6 +29,12 @@
   background-color: orange; /* 背景色orange */
 }
 
+.main-visual-content {
+  width: 350px; /* 横幅350px */
+  height: 300px; /* 親の高さに揃える */
+  background-color: gold; /* 背景色gold */
+}
+
 .main {
   width: 100%; /* 横幅いっぱい */
   height: 1400px; /* 高さ1400px（多めに設定） */
