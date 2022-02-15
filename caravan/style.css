@@ -41,6 +41,18 @@
   background-color: green; /* 背景色green */
 }
 
+.blog {
+  width: 600px; /* 横幅600px */
+  height: 600px; /* 高さ600px */
+  background-color: limegreen; /* 背景色limegreen */
+}
+
+.sidebar {
+  width: 240px; /* 横幅240px */
+  height: 600px; /* 高さ600px */
+  background-color: palegreen; /* 背景色palegreen */
+}
+
 .footer {
   width: 100%; /* 横幅いっぱい */
   height: 120px; /* 高さ120px */
