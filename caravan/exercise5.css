@@ -4,3 +4,114 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.list1 {
+  width: 960px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background-color: lightgray;
+}
+
+.list2 {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.list3 {
+  width: 960px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+.list4 {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.list5 {
+  width: 960px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+.list6 {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.list7 {
+  width: 960px;
+  margin: 0 auto;
+  background-color: lightgray;
+}
+
+.list-text {
+  padding: 20px;
+  margin-left: 20px;
+}
+
+main {
+  width: 960px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box1 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
+
+.box2 {
+  width: 30%;
+  height: 200px;
+  margin: 0 5%;
+  background-color: yellow;
+}
+
+.box3 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box4 {
+  width: 30%;
+  height: 200px;
+  margin: 40px 0;
+  background-color: yellow;
+}
+
+.box5 {
+  width: 30%;
+  height: 200px;
+  margin: 40px 5%;
+  background-color: orange;
+}
+
+.box6 {
+  width: 30%;
+  height: 200px;
+  margin: 40px 0;
+  background-color: yellow;
+}
+
+.box7 {
+  width: 30%;
+  height: 200px;
+  background-color: yellow;
+}
+
+.box8 {
+  width: 30%;
+  height: 200px;
+  margin: 0 5%;
+  background-color: yellow;
+}
+
+.box9 {
+  width: 30%;
+  height: 200px;
+  background-color: orange;
+}
