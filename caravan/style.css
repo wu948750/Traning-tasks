@@ -43,8 +43,9 @@ header .heading {
 }
 
 .main-visual-content {
-  width: 350px; /* 横幅350px */
   height: 300px; /* 親の高さに揃える */
+  width: 40%; /* 横幅40% */
+  background-color: rgba(0, 0, 0, 0.5); /* 背景色を半透明の黒にする */
 }
 
 .main {
