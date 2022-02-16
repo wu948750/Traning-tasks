@@ -4,3 +4,44 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(../chapter7_exercise/img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.headline {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto; /* 要素の中央揃え */
+}
+
+.box1 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: #d1d1d1 1px solid;
+}
+
+.box2 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: #d1d1d1 1px solid;
+}
+
+.box3 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: #d1d1d1 1px solid;
+}
+
+.box4 {
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+  border-bottom: #d1d1d1 1px solid;
+}
